@@ -1,5 +1,40 @@
 # SideWaffle Template Creator
 
+
+<!--BadgesSTART-->
+[![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
+<!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
+
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/Gregt.sidewafflev2?branch=master)](https://bettercodehub.com/results/GregTrevellick/Gregt.sidewafflev2)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/64d3c825785c4398a4e0c0f3c0542865)](https://www.codacy.com/project/gtrevellick/Gregt.sidewafflev2/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Gregt.sidewafflev2&amp;utm_campaign=Badge_Grade_Dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2)
+[![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2)
+[![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2/pulls)
+[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=alert_status)](https://sonarcloud.io/dashboard?id=Gregt.sidewafflev2)
+[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=bugs)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=bugs)
+[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=code_smells)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=code_smells)
+[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=coverage)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=Coverage)
+[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=duplicated_lines)
+[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=ncloc)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=ncloc)
+[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=reliability_rating)
+[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=security_rating)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=security_rating)
+[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=sqale_index)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=sqale_index)
+[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=sqale_rating)
+[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=vulnerabilities)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/53q1kagc0jsbfpik?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Gregt-sidewafflev2)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/Gregt-sidewafflev2.svg)](https://ci.appveyor.com/project/GregTrevellick/Gregt-sidewafflev2/build/tests)
+[![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
+[![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
+[![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
+[![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
+[![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
+<!--BadgesEND-->
+
+
+
+
+
 Download this extension from the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=Sayed-Ibrahim-Hashimi.SidewaffleCreator2017)
 
 ---------------------------------------
