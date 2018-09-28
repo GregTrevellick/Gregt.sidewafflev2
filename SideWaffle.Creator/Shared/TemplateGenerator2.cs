@@ -200,7 +200,7 @@ namespace TemplateCreator
       <CustomParameter Name = ""$language$"" Value=""CSharp"" />
       <CustomParameter Name = ""$uistyle$"" Value=""none""/>
       <CustomParameter Name = ""$groupid$"" Value=""{4}"" />
-      <CustomParameter Name = ""SideWaffleNewProjNode"" Value=""CSharp\Web\SideWaffle""/>
+      <CustomParameter Name = ""SideWaffleNewProjNode"" Value=""CSharp\Gregt""/>
     </CustomParameters>
   </TemplateContent>
   <WizardExtension>

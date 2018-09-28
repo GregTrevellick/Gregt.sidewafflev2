@@ -1,7 +1,7 @@
 <VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="ProjectGroup">
   <TemplateData>
-    <Name>Template Pack Project Template (SideWaffle)</Name>
-    <Description>Makes it easy to create a template pack</Description>
+    <Name>gregt Template Pack Project Template (SideWaffle)</Name>
+    <Description>gregt Makes it easy to create a template pack</Description>
     <TemplateID>SideWaffle.TemplatePack.01</TemplateID>
     <DefaultName>VsixProject</DefaultName>
     
@@ -21,7 +21,7 @@
       <CustomParameter Name="$language$" Value="CSharp" />
       <CustomParameter Name="$uistyle$" Value="none"/>
       <CustomParameter Name="$groupid$" Value="SideWafflev2.TemplatePackProject" />
-      <CustomParameter Name="SideWaffleNewProjNode" Value="CSharp\Extensibility\SideWaffle"/>
+      <CustomParameter Name="SideWaffleNewProjNode" Value="CSharp\Extensibility\Gregt\SideWaffle"/>
     </CustomParameters>
   </TemplateContent>
   <WizardExtension>

@@ -16,7 +16,7 @@
       <Menu guid="guidPackageCmdSet" id="Menu" priority="0x0200" type="Menu">
         <Parent guid="guidSHLMainMenu" id="IDG_VS_CTXT_FOLDER_ADD" />
         <Strings>
-          <ButtonText>SideWaffle Template Creator</ButtonText>
+          <ButtonText>gregt SideWaffle Template Creator</ButtonText>
         </Strings>
       </Menu>
     </Menus>

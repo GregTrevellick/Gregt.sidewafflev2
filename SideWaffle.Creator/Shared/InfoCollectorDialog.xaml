@@ -21,7 +21,7 @@
             <RowDefinition Height="Auto" />
             <RowDefinition Height="Auto" />
         </Grid.RowDefinitions>
-        <TextBlock Grid.Row="0" Grid.ColumnSpan="2" TextWrapping="WrapWithOverflow" Margin="5,0,0,10">This will create a '.template.config' folder in the root of the project.</TextBlock>
+        <TextBlock Grid.Row="0" Grid.ColumnSpan="2" TextWrapping="WrapWithOverflow" Margin="5,0,0,10">gregt This will create a '.template.config' folder in the root of the project.</TextBlock>
 
         <Label Grid.Row="1" Grid.Column="0">Author:</Label>
         <TextBox Grid.Row="1" Grid.Column="1" x:Name="AuthorTextBox" Margin="2" />
