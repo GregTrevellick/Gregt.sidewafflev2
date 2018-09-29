@@ -6,10 +6,10 @@ environment:
 install:
     - choco install "sonarscanner-msbuild-net46" -y
 before_build:
-    - cmd: nuget restore Src/sidewafflev2.sln
+    - cmd: nuget restore sidewafflev2.sln
     - SonarScanner.MSBuild.exe begin /k:"Gregt.sidewafflev2" /d:"sonar.host.url=https://sonarqube.com" /d:"sonar.login=%my_encrypted_sonarqube_token%" /d:"sonar.organization=gregtrevellick-github"
 build:
-  project: Src/sidewafflev2.sln
+  project: sidewafflev2.sln
   verbosity: minimal
 after_build:
     - SonarScanner.MSBuild.exe end /d:"sonar.login=%my_encrypted_sonarqube_token%"
