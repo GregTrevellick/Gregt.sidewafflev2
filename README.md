@@ -25,6 +25,7 @@
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/53q1kagc0jsbfpik?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Gregt-sidewafflev2)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/Gregt-sidewafflev2.svg)](https://ci.appveyor.com/project/GregTrevellick/Gregt-sidewafflev2/build/tests)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/Gregt.sidewafflev2/_apis/build/status/Gregt.sidewafflev2)](https://gregtrevellick.visualstudio.com/Gregt.sidewafflev2/_build/latest?definitionId=)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
