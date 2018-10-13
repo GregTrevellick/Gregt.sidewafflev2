@@ -10,7 +10,9 @@
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/Gregt.sidewafflev2?branch=master)](https://bettercodehub.com/results/GregTrevellick/Gregt.sidewafflev2)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/64d3c825785c4398a4e0c0f3c0542865)](https://www.codacy.com/project/gtrevellick/Gregt.sidewafflev2/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Gregt.sidewafflev2&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Gregt.sidewafflev2/report?token=f0wNmz_NkQ5G4aOn5kCrKLZ5nHKJoCui553Lu8NOv10&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Gregt.sidewafflev2/branch/master/summary)
+[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Gregt.sidewafflev2/report?token=f0wNmz_NkQ5G4aOn5kCrKLZ5nHKJoCui553Lu8NOv10)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Gregt.sidewafflev2/branch/master/summary)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2/issues)
