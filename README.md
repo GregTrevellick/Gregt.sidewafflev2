@@ -8,7 +8,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/64d3c825785c4398a4e0c0f3c0542865)](https://www.codacy.com/project/gtrevellick/Gregt.sidewafflev2/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Gregt.sidewafflev2&amp;utm_campaign=Badge_Grade_Dashboard)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2)
-[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Gregt.sidewafflev2/report?token=f0wNmz_NkQ5G4aOn5kCrKLZ5nHKJoCui553Lu8NOv10)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Gregt.sidewafflev2/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2)
@@ -29,7 +28,6 @@
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/53q1kagc0jsbfpik?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Gregt-sidewafflev2)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/Gregt-sidewafflev2.svg)](https://ci.appveyor.com/project/GregTrevellick/Gregt-sidewafflev2/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/Gregt.sidewafflev2/_apis/build/status/Gregt.sidewafflev2)](https://gregtrevellick.visualstudio.com/Gregt.sidewafflev2/_build/latest?definitionId=9)
-[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Gregt.sidewafflev2/status?token=f0wNmz_NkQ5G4aOn5kCrKLZ5nHKJoCui553Lu8NOv10)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/Gregt.sidewafflev2/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
