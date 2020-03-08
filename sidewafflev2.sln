@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.10
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideWaffle.Creator", "SideWaffle.Creator\SideWaffle.Creator.csproj", "{771CA0AE-51F7-4420-B392-B396439A9AE6}"
 EndProject
@@ -13,6 +13,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "files", "files", "{D87261A3
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideWaffleTasks", "SideWaffleTasks\SideWaffleTasks.csproj", "{7BF428FE-1774-46AC-B760-5CC540DC5FE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CE2B8B4D-2FE1-423C-B399-1E54F5B51A28}"
+	ProjectSection(SolutionItems) = preProject
+		appveyor.yml = appveyor.yml
+		azure-pipelines.yml = azure-pipelines.yml
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
