@@ -10,6 +10,9 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2)
 <!-- no md -->
 <!-- no md -->
+<!-- no md -->
+<!-- no md -->
+<!-- no md -->
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2/issues)
