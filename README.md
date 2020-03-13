@@ -6,13 +6,8 @@
 [![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20ReadMeSynchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/Gregt.sidewafflev2?branch=master)](https://bettercodehub.com/results/GregTrevellick/Gregt.sidewafflev2)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/64d3c825785c4398a4e0c0f3c0542865)](https://www.codacy.com/project/gtrevellick/Gregt.sidewafflev2/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Gregt.sidewafflev2&amp;utm_campaign=Badge_Grade_Dashboard)
-<!-- no md -->
-[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2)
-<!-- no md -->
-<!-- no md -->
-<!-- no md -->
-<!-- no md -->
-[![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2)
+ [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2)
+    [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2/pulls)
@@ -37,8 +32,7 @@
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Subscribe](https://img.shields.io/badge/subscribe%20to%20receive%20notificatons-grey.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2/subscription)
-<!-- no md -->
-
+ 
 <!--BadgesEND-->
 
 
